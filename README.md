@@ -83,6 +83,8 @@
 
    [kmp算法详解](http://blog.csdn.net/yutianzuijin/article/details/11954939)
 
+  [kmp字符串查找算法](http://blog.chinaunix.net/uid-26548237-id-3367953.html)
+
 * 遗传算法 
 
 * 启发式搜索 
